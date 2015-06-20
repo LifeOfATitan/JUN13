@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeekBar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="format" formatted="false">%5.1f\u00B0 Fahrenheit = %3d\u00B0 Celsius</string>
+</resources>
